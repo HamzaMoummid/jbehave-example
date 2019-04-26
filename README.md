@@ -8,7 +8,8 @@ JBehave est un outil d'automatisation de test qui respecte les principes de la c
 Après avoir installé maven: mvn clean install exécutera les tests et produira la sortie de test.
 
 
-Etapes :
+
+## Etapes
 Dans src/test/java
  - creation ..Scenario.java
  - creation ..ScenarioSteps.java
