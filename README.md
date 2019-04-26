@@ -17,6 +17,7 @@ Dans src/test/java
  Dans pom.xml :
  exemple :
  
+```
  <configuration>
 	<includes>
 		<include>**/*RECTANGLEScenario.java</include>
@@ -24,5 +25,7 @@ Dans src/test/java
 
 	<scope>test</scope>
 </configuration>
+
+```
 
 
