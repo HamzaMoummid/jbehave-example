@@ -1,4 +1,4 @@
-# Projet Maven Example avec JBehave [JBehave](http://jbehave.org/) 
+# Projet Maven Example avec [JBehave](http://jbehave.org/) 
 projet exemple pour executer un simple scénario de calcul de surface 
 
 ## Contexte
